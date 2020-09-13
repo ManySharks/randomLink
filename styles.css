@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+   background-color: #333333;
+}
+
+.btnClass{
+    position: relative;
+    background-color: white;
+    color: black;
+    left: 600px;
+    top: 300px;
+    height: 100px;
+    width: 200px;
+
+}
+.text{
+  background-color:white;
+}
+
+.divCLass{
+  position: relative;
+  
+  
+  left: 1000px;
+  top: 300px;
+}
+.btnClass:a{
+  text-decoration: none;
+}
